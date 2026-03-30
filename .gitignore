@@ -1,0 +1,18 @@
+# Python 캐시
+__pycache__/
+*.py[cod]
+*.pyo
+
+# pip install -e . 부산물
+*.egg-info/
+*.egg
+dist/
+build/
+
+# 환경
+.env
+.venv/
+venv/
+
+# VSCode 개인 설정 (선택)
+.vscode/settings.json
